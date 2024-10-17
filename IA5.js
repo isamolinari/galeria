@@ -5,7 +5,7 @@ const jogos = [
     { nome: 'Pac-Man', imagem: 'pac-man.jpg' },
     { nome: 'Mario Bros', imagem: 'mario-bros.jpg' },
     { nome: 'Pitfall', imagem: 'Modelo 2.png' },
-    { nome: 'Enduro', imagem: 'morris.webp' },
+    { nome: 'Enduro', imagem: 'morris.png' },
     { nome: 'Donkey Kong', imagem: 'mario-bros.jpg' },
     { nome: 'Galaxy', imagem: 'mario-bros.jpg' },
     { nome: 'Tennis', imagem: 'mario-bros.jpg' },  
